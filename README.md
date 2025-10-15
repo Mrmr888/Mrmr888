@@ -11,7 +11,42 @@
 
 
 ## My Tech Stack 💻
-> My most-skilled
+>My using sofaware
+<table>
+  <tr> 
+      <td align="center" width="90">
+              <a href="#my-tech-stack-">
+            <img src="https://skillicons.dev/icons?i=ae" alt="ae" width="45" height="45" />
+        </a>
+        <br/> Ae 
+         </td>
+      <td align="center" width="90">
+        <a href="#my-tech-stack-">
+            <img src="https://skillicons.dev/icons?i=idea" alt="ae" width="45" height="45" />
+        </a>
+        <br/>Idea
+           </td>
+        <td align="center" width="90">
+        <a href="#my-tech-stack-">
+            <img src="https://skillicons.dev/icons?i=vscode" alt="ae" width="45" height="45" />
+        </a>
+        <br/>Vscode
+             
+  </td>
+  </tr>
+</table>
+> My most skilled
+<table>
+  <tr>
+    <td align="center" width="90">
+        <a href="#my-tech-stack-">
+            <img src="https://skillicons.dev/icons?i=java" alt="java" width="45" height="45" />
+        </a>
+        <br/> Java
+           </td>
+  </tr>
+</table>
+> Just learning a little
 <table>
     <tr>
         <td align="center" width="90">
@@ -72,12 +107,6 @@
         </td>
         <td align="center" width="90">
             <a href="#my-tech-stack-">
-                <img src="https://skillicons.dev/icons?i=react" alt="react" width="45" height="45" />
-            </a>
-            <br/> React
-        </td>
-        <td align="center" width="90">
-            <a href="#my-tech-stack-">
                 <img src="https://skillicons.dev/icons?i=vite" alt="Vite" width="45" height="45" />
             </a>
             <br/> Vite
@@ -102,25 +131,13 @@
             </a>
             <br/> C++
         </td>
-        <td align="center" width="90">
-            <a href="#my-tech-stack-">
-                <img src="https://skillicons.dev/icons?i=py" alt="python" width="45" height="45" />
-            </a>
-            <br/> Python
-        </td>
     </tr>
 </table>
 
 [![Generic badge](https://img.shields.io/badge/level-master-yellow.svg)](https://shields.io/)
-> Learning
+> Want to Learn
 <table>
   <tr>
-    <td align="center" width="90">
-        <a href="#my-tech-stack-">
-            <img src="https://skillicons.dev/icons?i=java" alt="java" width="45" height="45" />
-        </a>
-        <br/> Java
-    </td>
     <td align="center" width="90">
       <a href="#my-tech-stack-">
         <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="45" height="45" />
@@ -145,6 +162,18 @@
       </a>
       <br/> Kotlin
     </td>
+          <td align="center" width="90">
+            <a href="#my-tech-stack-">
+                <img src="https://skillicons.dev/icons?i=react" alt="react" width="45" height="45" />
+            </a>
+            <br/> React
+        </td>
+         <td align="center" width="90">
+            <a href="#my-tech-stack-">
+                <img src="https://skillicons.dev/icons?i=py" alt="python" width="45" height="45" />
+            </a>
+            <br/> Python
+        </td>
   </tr>
 </table>
 
