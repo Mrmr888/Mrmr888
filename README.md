@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hello there 👋
 
 **Intruduction:**
 
-- 🔭 I’m currently developing some interesting products!
+- 🔭 I’m currently developing some interesting products and watching nice episode!
 - 🌱 I’m currently learning JAVA and Springboot! It's challenging but exciting!
 - 💬 Ask me about **ANYTHING** !
 - 📫 How to reach me: Email me at `Rekoj666@163.com`. If you have WeChat, QQ feel free to add me as a friend.
